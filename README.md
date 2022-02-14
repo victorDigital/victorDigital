@@ -1,6 +1,6 @@
 👋 hello
 
-[my website] (https://victordigital.github.io/)
+<https://victordigital.github.io/>
 
 <!---
 victorDigital/victorDigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
