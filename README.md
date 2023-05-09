@@ -12,3 +12,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victordigital&show_icons=true&locale=en" alt="victordigital" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victordigital&" alt="victordigital" /></p>
+
+## Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
