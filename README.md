@@ -13,13 +13,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victorDigital/word-addin](https://github.com/victorDigital/word-addin)<br>
-2. 📔 Created new repository [victorDigital/word-addin](https://github.com/victorDigital/word-addin)<br>
-3. ⬆️ Pushed 1 commit(s) to [victorDigital/victorDigital](https://github.com/victorDigital/victorDigital)<br>
+1. ✔️ Closed issue [#117](https://github.com/vkurko/calendar/issues/117) in [vkurko/calendar](https://github.com/vkurko/calendar)<br>
+2. ⬆️ Pushed 1 commit(s) to [victorDigital/word-addin](https://github.com/victorDigital/word-addin)<br>
+3. 📔 Created new repository [victorDigital/word-addin](https://github.com/victorDigital/word-addin)<br>
 4. ⬆️ Pushed 1 commit(s) to [victorDigital/victorDigital](https://github.com/victorDigital/victorDigital)<br>
 5. ⬆️ Pushed 1 commit(s) to [victorDigital/victorDigital](https://github.com/victorDigital/victorDigital)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 14th, 2023, 8:34:25 AM
+Last Updated: Sunday, May 14th, 2023, 9:09:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
