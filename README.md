@@ -13,13 +13,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#159](https://github.com/BetterLectio/betterLectio/pull/159) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
-2. ❗️ Opened issue [#158](https://github.com/BetterLectio/betterLectio/issues/158) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
-3. 💬 Commented on [#157](https://github.com/BetterLectio/betterLectio/pull/157#issuecomment-1549102373) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
-4. 💬 Commented on [#7](https://github.com/BetterLectio/python-lectio/pull/7#issuecomment-1548520291) in [BetterLectio/python-lectio](https://github.com/BetterLectio/python-lectio)<br>
-5. 👍 Approved [#157](https://github.com/BetterLectio/betterLectio/pull/157#pullrequestreview-1427304722) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+1. ⬆️ Pushed 3 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+2. 🎉 Merged PR [#157](https://github.com/BetterLectio/betterLectio/pull/157) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+3. 💪 Opened PR [#159](https://github.com/BetterLectio/betterLectio/pull/159) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+4. ❗️ Opened issue [#158](https://github.com/BetterLectio/betterLectio/issues/158) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+5. 💬 Commented on [#157](https://github.com/BetterLectio/betterLectio/pull/157#issuecomment-1549102373) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 16th, 2023, 9:10:44 AM
+Last Updated: Tuesday, May 16th, 2023, 9:34:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
