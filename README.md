@@ -13,13 +13,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#164](https://github.com/BetterLectio/betterLectio/pull/164) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
-2. ⬆️ Pushed 3 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
-3. 💪 Opened PR [#164](https://github.com/BetterLectio/betterLectio/pull/164) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
-4. ⬆️ Pushed 1 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+1. ⬆️ Pushed 1 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+2. 🎉 Merged PR [#164](https://github.com/BetterLectio/betterLectio/pull/164) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+3. ⬆️ Pushed 3 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+4. 💪 Opened PR [#164](https://github.com/BetterLectio/betterLectio/pull/164) in [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
 5. ⬆️ Pushed 1 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 23rd, 2023, 5:09:35 PM
+Last Updated: Tuesday, May 23rd, 2023, 5:34:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
