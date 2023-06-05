@@ -14,12 +14,12 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
-2. ⬆️ Pushed 1 commit(s) to [victorDigital/victorDigital](https://github.com/victorDigital/victorDigital)<br>
+2. ⬆️ Pushed 1 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
 3. ⬆️ Pushed 1 commit(s) to [victorDigital/victorDigital](https://github.com/victorDigital/victorDigital)<br>
-4. ⬆️ Pushed 1 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+4. ⬆️ Pushed 1 commit(s) to [victorDigital/victorDigital](https://github.com/victorDigital/victorDigital)<br>
 5. ⬆️ Pushed 1 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 5th, 2023, 2:34:15 PM
+Last Updated: Monday, June 5th, 2023, 3:11:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
