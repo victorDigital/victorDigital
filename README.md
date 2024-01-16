@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Victor </h1>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
-2. 💪 Opened PR [#1](https://github.com/BetterLectio/BetterLectio-next/pull/1) in [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
-3. 🎉 Merged PR [#1](https://github.com/BetterLectio/BetterLectio-next/pull/1) in [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
-4. ⬆️ Pushed 1 commit(s) to [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
-5. ⬆️ Pushed 1 commit(s) to [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+1. ⬆️ Pushed 8 commit(s) to [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+2. 🎉 Merged PR [#2](https://github.com/BetterLectio/BetterLectio-next/pull/2) in [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+3. ⬆️ Pushed 3 commit(s) to [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+4. ⬆️ Pushed 2 commit(s) to [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+5. 💪 Opened PR [#2](https://github.com/BetterLectio/BetterLectio-next/pull/2) in [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 16th, 2024, 9:34:43 PM
+Last Updated: Tuesday, January 16th, 2024, 10:10:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
