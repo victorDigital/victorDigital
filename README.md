@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Victor </h1>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BetterLectio/BetterLectio-OAuth-helper](https://github.com/BetterLectio/BetterLectio-OAuth-helper)<br>
-2. ⬆️ Pushed 1 commit(s) to [BetterLectio/BetterLectio-OAuth-helper](https://github.com/BetterLectio/BetterLectio-OAuth-helper)<br>
-3. 📔 Created new repository [BetterLectio/BetterLectio-OAuth-helper](https://github.com/BetterLectio/BetterLectio-OAuth-helper)<br>
-4. ⬆️ Pushed 2 commit(s) to [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
-5. 🔱 Forked [victorDigital/betterLectio](https://github.com/victorDigital/betterLectio) from [BetterLectio/betterLectio](https://github.com/BetterLectio/betterLectio)<br>
+1. ⬆️ Pushed 4 commit(s) to [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+2. 🎉 Merged PR [#18](https://github.com/BetterLectio/BetterLectio-next/pull/18) in [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+3. 💪 Opened PR [#18](https://github.com/BetterLectio/BetterLectio-next/pull/18) in [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+4. ⬆️ Pushed 2 commit(s) to [BetterLectio/BetterLectio-next](https://github.com/BetterLectio/BetterLectio-next)<br>
+5. ⬆️ Pushed 1 commit(s) to [BetterLectio/BetterLectio-OAuth-helper](https://github.com/BetterLectio/BetterLectio-OAuth-helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 1st, 2024, 12:47:56 PM
+Last Updated: Monday, April 1st, 2024, 1:11:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
