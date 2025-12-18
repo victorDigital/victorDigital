@@ -2,9 +2,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS)<br>
-2. ⭐ Starred [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 17th, 2025, 11:39:40 PM
+Last Updated: Thursday, December 18th, 2025, 1:18:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
