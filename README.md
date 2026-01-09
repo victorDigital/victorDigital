@@ -5,9 +5,8 @@
 2. ⭐ Starred [colmap/colmap](https://github.com/colmap/colmap)<br>
 3. ⭐ Starred [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)<br>
 4. ⭐ Starred [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS)<br>
-5. ⭐ Starred [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 9th, 2026, 3:45:38 PM
+Last Updated: Friday, January 9th, 2026, 4:23:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
