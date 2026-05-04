@@ -3,9 +3,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
 2. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br>
-3. ⭐ Starred [google/langextract](https://github.com/google/langextract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 4th, 2026, 8:45:34 PM
+Last Updated: Monday, May 4th, 2026, 9:56:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
